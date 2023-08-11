@@ -8,5 +8,5 @@
 - /src/test/java
     - 基本显式映射：cn.oo.demo.orika.OrikaDemoTest
     - 基本方法通用工具类：cn.oo.demo.orika.OrikaMapperUtilsTest
-    - 高阶通用工具类（支持指定字段映射关系）：cn.oo.demo.orika.OrikaAdwancedMapperUtilsTest
+    - 高阶通用工具类（支持指定字段映射关系）：cn.oo.demo.orika.OrikaAdvancedMapperUtilsTest
     - 绑定实体双向映射：cn.oo.demo.orika.OrikaBoundMapperTest
